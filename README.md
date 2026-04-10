@@ -2,7 +2,7 @@
 
 Very nice game
 
-For phones: use activate computer version in you browser, rotate you screen, adjust zoom, AND HAVE FUN!
+For phones: use activate computer version in your browser, rotate you screen, adjust zoom, AND HAVE FUN!
 
 ![Game](images/game.png)
 
